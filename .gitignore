@@ -1,0 +1,13 @@
+# Generated results and local test pictures
+upscaled/
+__pycache__/
+*.py[cod]
+
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.bmp
+*.gif
+*.tif
+*.tiff
